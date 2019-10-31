@@ -17,7 +17,7 @@ background-image:url(CSGOpic4.jpg);
 }
 100%
 {
-background-image:url(CSGOpic2.jpg);
+background-image:url(CSGOpic5.jpg);
 }
 }
 .whole
@@ -43,7 +43,7 @@ text-align:center;
 {
 height:450px;
 width:250px;
-background-image:url(CSGOpic4.jpg);
+background-image:url(CSGOpic6.jpg);
 background-size:cover;
 }
 #id3
@@ -61,6 +61,10 @@ width:250px;
 margin-top:1%;
 margin-right:3%;
 float:right;
-background-image:url(CSGOpic3.jpg);
+background-image:url(CSGOpic7.jpg);
 background-size:cover;
+}
+@a
+{
+color:white;
 }
